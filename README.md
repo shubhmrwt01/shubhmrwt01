@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shubhmrwt01/shubhmrwt01/blob/main/github-header-image-4.png" width="80%" />
+  <img src="https://github.com/shubhmrwt01/shubhmrwt01/blob/main/header.png" width="90%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Rawat</h1>
