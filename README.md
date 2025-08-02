@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shubhmrwt01/shubhmrwt01/blob/main/header.png" width="100%" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/adoptly-b8aef.firebasestorage.app/o/Adoptly%2Fheader.png?alt=media&token=69c63966-59a6-413d-a107-0f1639067892" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Rawat</h1>
