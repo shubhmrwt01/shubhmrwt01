@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shubhmrwt01/shubhmrwt01/blob/main/header.png" width="90%" />
+  <img src="https://github.com/shubhmrwt01/shubhmrwt01/blob/main/header.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Shubham Rawat</h1>
@@ -55,5 +55,6 @@
 
 ---
 
-### 🐍 **Contribution Snake**
-![snake gif](https://github.com/shubhmrwt01/shubhmrwt01/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+![snake gif](https://raw.githubusercontent.com/shubhmrwt01/shubhmrwt01/output/github-contribution-grid-snake.svg)
+
