@@ -1,19 +1,14 @@
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/adoptly-b8aef.firebasestorage.app/o/Adoptly%2Fheader.png?alt=media&token=69c63966-59a6-413d-a107-0f1639067892" width="100%" />
+  <img src="github_header.png" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Shubham Rawat</h1>
-<h3 align="center">Code. Create. Connect. — React Native Developer</h3>
-
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [Adoptly-React Native Project](https://expo.dev/accounts/shubhmrwt01/projects/Adoptly/builds/a944fb25-33b3-418f-acc8-1360bd999d5b)  
-- 🌱 I’m currently learning **React Native Framework**  
+- 🌱 I’m currently learning **DSA** & **Python**
 - 👯 I’m looking to collaborate on **React Native Projects**  
-- 👨‍💻 All of my projects are available at [https://github.com/shubhmrwt01](https://github.com/shubhmrwt01)  
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/shubhmrwt01)  
 - 💬 Ask me about **React Native, Firebase, JavaScript, Java**  
 - 📫 How to reach me **mail.shubhmrwt01@gmail.com**  
-- ⚡ Fun fact **When I’m not building cross‑platform apps, I’m experimenting with new recipes.**
+- ⚡ Fun fact **When I’m not building cross-platform apps, I’m experimenting with new recipes.**
 
 ---
 
