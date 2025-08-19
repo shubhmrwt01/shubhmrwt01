@@ -43,14 +43,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmrwt01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shubhmrwt01" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhmrwt01&show_icons=true&locale=en&theme=tokyonight" alt="shubhmrwt01" /></p>
 
----
-
-### 📈 **GitHub Activity Graph**
-[![Shubham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhmrwt01&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/shubhmrwt01/shubhmrwt01/output/github-contribution-grid-snake.svg)
-
-
