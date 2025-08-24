@@ -10,7 +10,7 @@ I'm a passionate developer specializing in **React Native** and **full-stack dev
 
 ### 🎯 Currently:
 - 🌱 Learning **DSA & Python**
-- 🔭 Working on [**Full Stack AI Wardrobe Assistant - StyleSync**]()
+- 🔭 Working on [**Full Stack AI Wardrobe Assistant - StyleSync**](https://github.com/shubhmrwt01/StyleSync)
 - 👯 Open to collaborate on **React Native Projects**
 - 💬 Ask me about **React Native, Firebase, JavaScript, Java**
 
@@ -83,7 +83,7 @@ I'm a passionate developer specializing in **React Native** and **full-stack dev
 
 ## 🌟 Featured Project
 
-**🎯 Full Stack AI Wardrobe Assistant - StyleSync**
+**🎯 [Full Stack AI Wardrobe Assistant - StyleSync](https://github.com/shubhmrwt01/StyleSync)**
 - AI-powered fashion recommendation system
 - Technologies: React Native, Firebase, Python
 - Status: In Development
