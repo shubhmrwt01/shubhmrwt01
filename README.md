@@ -1,18 +1,16 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=React+Native+Developer;Full+Stack+Developer;Always+Learning" alt="Typing SVG" />
-</div>
+
 
 # Hi there, I'm Shubham! 👋
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## 🚀 Full Stack Developer | Mobile App Specialist
+## 🚀 Full Stack App Developer 
 
 I'm a passionate developer specializing in **React Native** and **full-stack development**. I love building cross-platform mobile applications and solving complex problems through code.
 
 ### 🎯 Currently:
 - 🌱 Learning **DSA & Python**
-- 🔭 Working on **Full Stack AI Wardrobe Assistant - StyleSync**
+- 🔭 Working on [**Full Stack AI Wardrobe Assistant - StyleSync**]()
 - 👯 Open to collaborate on **React Native Projects**
 - 💬 Ask me about **React Native, Firebase, JavaScript, Java**
 
@@ -89,6 +87,12 @@ I'm a passionate developer specializing in **React Native** and **full-stack dev
 - AI-powered fashion recommendation system
 - Technologies: React Native, Firebase, Python
 - Status: In Development
+
+**🎯 [Full Stack Pet Donation App - Adoptly](https://github.com/shubhmrwt01/Adoptly)**
+- Pet Donation App 
+- Technologies: React Native, Firebase,Clerk
+- Status: Deployed
+
 
 📱 **[View All Projects](https://github.com/shubhmrwt01)**
 
