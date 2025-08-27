@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-## 🚀 Full Stack App Developer 
+## 🚀 React Native Developer
 
 I'm a passionate developer specializing in **React Native** and **full-stack development**. I love building cross-platform mobile applications and solving complex problems through code.
 
