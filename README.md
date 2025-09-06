@@ -14,7 +14,7 @@
 ## 🎯 What I'm Up To
 
 ```javascript
-const shubh = {
+const shubham = {
     currentFocus: "DSA & Python mastery",
     building: "EchoMind - AI conversation assistant",
     lookingFor: "React Native collaborations",
@@ -68,18 +68,18 @@ const shubh = {
 <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-<p><code>React Native • Python • AI</code></p>
+<p><code>React Native • JSX • AI</code></p>
 </td>
 <td width="50%">
 <h3>🐕 Adoptly</h3>
 <p><strong>Pet Donation Platform</strong></p>
 <p>Connecting pets with loving families</p>
 <p>
-<a href="https://github.com/shubhmrwt01/Adoptly">
+<a href="https://expo.dev/accounts/shubhmrwt01/projects/Adoptly/builds/a944fb25-33b3-418f-acc8-1360bd999d5b">
 <img src="https://img.shields.io/badge/Live_App-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 </p>
-<p><code>React Native • Firebase • Clerk</code></p>
+<p><code>React Native • Firebase • Clerk • Adopto(AI ChatBot)</code></p>
 </td>
 </tr>
 </table>
