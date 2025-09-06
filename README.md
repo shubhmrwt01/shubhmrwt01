@@ -1,38 +1,51 @@
+<div align="center">
 
+# 🚀 Hey, I'm Shubham Rawat
+### React Native Developer | Mobile App Architect | Problem Solver
 
-# Hi there, I'm Shubham! 👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Cross-Platform+Magic+%E2%9C%A8;Turning+Ideas+into+Mobile+Reality+%F0%9F%93%B1;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-## 🚀 React Native Developer
-
-I'm a passionate developer specializing in **React Native** and **full-stack development**. I love building cross-platform mobile applications and solving complex problems through code.
-
-### 🎯 Currently:
-- 🌱 Learning **DSA & Python**
-- 🔭 Working on [**EchoMind-Turning conversations into clarity.**](https://github.com/shubhmrwt01/EchoMind)
-- 👯 Open to collaborate on **React Native Projects**
-- 💬 Ask me about **React Native, Firebase, JavaScript, Java**
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+## 🎯 What I'm Up To
+
+```javascript
+const shubh = {
+    currentFocus: "DSA & Python mastery",
+    building: "EchoMind - AI conversation assistant",
+    lookingFor: "React Native collaborations",
+    funFact: "I code better with good coffee ☕",
+    secretTalent: "Master chef in the making 👨‍🍳"
+};
+```
+
+### 🏆 Quick Wins
+- 🔥 **Active Problem Solver** on LeetCode & CodeChef
+- 📱 **React Native Specialist** with 3+ deployed apps  
+- 🚀 **Full-Stack Capable** - Frontend to Backend
+- 🎨 **UI/UX Focused** - Pixel-perfect implementations
+
+<br clear="right"/>
+
+---
+
+## 🛠️ My Arsenal
 
 <div align="center">
 
-### Frontend & Mobile
+### 💎 Core Technologies
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⚡ Power Tools
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
@@ -40,84 +53,91 @@ I'm a passionate developer specializing in **React Native** and **full-stack dev
 
 ---
 
-## 🏆 Competitive Programming
+## 🎨 Featured Projects
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Coding" width="300"/>
+
+<table>
+<tr>
+<td width="50%">
+<h3>🤖 StyleSync</h3>
+<p><strong>AI Wardrobe Assistant</strong></p>
+<p>Smart fashion recommendations powered by AI</p>
+<p>
+<a href="https://github.com/shubhmrwt01/StyleSync">
+<img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+<p><code>React Native • Python • AI</code></p>
+</td>
+<td width="50%">
+<h3>🐕 Adoptly</h3>
+<p><strong>Pet Donation Platform</strong></p>
+<p>Connecting pets with loving families</p>
+<p>
+<a href="https://github.com/shubhmrwt01/Adoptly">
+<img src="https://img.shields.io/badge/Live_App-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a>
+</p>
+<p><code>React Native • Firebase • Clerk</code></p>
+</td>
+</tr>
+</table>
+
+### 🎯 Current Project: EchoMind
+**"Turning conversations into clarity"**  
+Revolutionary AI-powered communication assistant
+<br>
+[![View Progress](https://img.shields.io/badge/Track_Progress-9B59B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhmrwt01/EchoMind)
+
 </div>
 
-- 🥇 **LeetCode**: [@shubhmrwt01](https://www.leetcode.com/shubhmrwt01) - Solving algorithmic challenges
-- 🥇 **CodeChef**: [@shubhmrwt01](https://www.codechef.com/users/shubhmrwt01) - Competitive programming
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Highlights
 
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhmrwt01&theme=tokyonight&hide_border=true)
 
-</div>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhmrwt01&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhmrwt01&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=shubhmrwt01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhmrwt01&show_icons=true&locale=en&theme=tokyonight&hide_border=true)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmrwt01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 💼 What I Offer
-
-<img align="right" alt="Developer" width="250" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-✅ **Mobile Development**: Cross-platform apps with React Native  
-✅ **Full Stack Solutions**: End-to-end web and mobile applications  
-✅ **Problem Solving**: Strong foundation in algorithms and data structures  
-✅ **Firebase Integration**: Real-time databases and authentication  
-✅ **UI/UX Implementation**: Converting designs into responsive interfaces  
-
----
-
-## 🌟 Featured Project
-
-**🎯 [Full Stack AI Wardrobe Assistant - StyleSync](https://github.com/shubhmrwt01/StyleSync)**
-- AI-powered fashion recommendation system
-- Technologies: React Native, Firebase, Python
-- Status: In Development
-
-**🎯 [Full Stack Pet Donation App - Adoptly](https://github.com/shubhmrwt01/Adoptly)**
-- Pet Donation App 
-- Technologies: React Native, Firebase,Clerk
-- Status: Deployed
-
-
-📱 **[View All Projects](https://github.com/shubhmrwt01)**
-
----
-
-## 📬 Let's Connect!
-
-I'm always interested in discussing new opportunities and collaborating on exciting projects!
+## 🎯 Problem Solving Stats
 
 <div align="center">
 
+| Platform | Profile | Status |
+|----------|---------|--------|
+| 💻 **LeetCode** | [@shubhmrwt01](https://www.leetcode.com/shubhmrwt01) | Active Solver |
+| 🏆 **CodeChef** | [@shubhmrwt01](https://www.codechef.com/users/shubhmrwt01) | Regular Participant |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Something Amazing Together!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+### 📫 Reach Out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubhmrwt01)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.shubhmrwt01@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/shubhmrwt01)
 
-</div>
+### 💼 Current Status
+![Open for Work](https://img.shields.io/badge/Status-Open%20for%20Opportunities-success?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 ---
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=shubhmrwt01&color=blueviolet&style=for-the-badge&label=Profile+Views" />
 
-*"When I'm not building cross-platform apps, I'm experimenting with new recipes!"* 👨‍🍳
-
-![Profile Views](https://komarev.com/ghpvc/?username=shubhmrwt01&color=brightgreen&style=flat-square)
-
-**Available for freelance projects and full-time opportunities!** 🚀
+**✨ "Code is poetry in motion, and every app is a story waiting to be told" ✨**
 
 </div>
