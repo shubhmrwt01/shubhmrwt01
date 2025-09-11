@@ -60,15 +60,15 @@ const shubham = {
 <table>
 <tr>
 <td width="50%">
-<h3>🤖 StyleSync</h3>
-<p><strong>AI Wardrobe Assistant</strong></p>
-<p>Smart fashion recommendations powered by AI</p>
+<h3>🧠 EchoMind</h3>
+<p><strong>Turning conversations into clarity.</strong></p>
+<p>AI Meeting Summarizer</p>
 <p>
-<a href="https://github.com/shubhmrwt01/StyleSync">
+<a href="https://github.com/shubhmrwt01/EchoMind">
 <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-<p><code>React Native • JSX • AI</code></p>
+<p><code>React Native • JSX • AI • AI Agent • Firebase • Clerk </code></p>
 </td>
 <td width="50%">
 <h3>🐕 Adoptly</h3>
