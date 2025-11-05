@@ -164,7 +164,7 @@ Connecting abandoned pets with loving families through an intuitive mobile exper
 - Clerk Authentication
 - Adopto AI Chatbot
 
-<a href="https://expo.dev/accounts/shubhmrwt01/projects/Adoptly/builds/a944fb25-33b3-418f-acc8-1360bd999d5b">
+<a href="https://github.com/shubhmrwt01/Adoptly">
   <img src="https://img.shields.io/badge/Live_App-4ECDC4?style=for-the-badge&logo=expo&logoColor=white"/>
 </a>
 
