@@ -180,16 +180,7 @@ Connecting abandoned pets with loving families through an intuitive mobile exper
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhmrwt01&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhmrwt01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhmrwt01&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhmrwt01&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-</div>
+<div align="center"> <!-- 🟢 GitHub Streak Stats (Updated + Reliable) --> <a href="https://git.io/streak-stats">  </a> <!-- 🟢 GitHub Stats --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhmrwt01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" /> </a> <!-- 🟢 Activity Graph --> <a href="https://github.com/shubhmrwt01"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhmrwt01&custom_title=Shubham%27s%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" /> </a> <!-- 🟢 Top Languages --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhmrwt01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" /> </a> <!-- 🟢 GitHub Trophies --> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img width="49%" src="https://github-profile-trophy.vercel.app/?username=shubhmrwt01&theme=radical&no-frame=true&margin-w=5&column=4&title=Commit,Repositories,Stars,Followers" alt="GitHub Trophies" /> </a> </div>
 
 ---
 
