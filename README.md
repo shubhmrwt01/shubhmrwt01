@@ -129,30 +129,6 @@ const shubham = {
        height="120" />
 </div>
 
-### 🧠 EchoMeet
-**AI-Powered Meeting Summarizer**
-
-Transform conversations into actionable insights using advanced AI agents.
-
-**Tech Stack:**
-- React Native & Expo
-- Firebase & Clerk Auth
-- AI Agent Integration
-- Real-time Processing
-
-<a href="https://github.com/shubhmrwt01/EchoMeet">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-**Status:** 🚀 Active Development
-
-</td>
-<td width="50%" valign="top" align="center">
-<br>
-<div align="center">
-<img src="adaptive-icon.png" alt="Adoptly Logo" width="100" height="100" />
-</div>
-    
 ### 🐾 Adoptly
 **Pet Adoption Platform**
 
@@ -164,7 +140,7 @@ Connecting abandoned pets with loving families through an intuitive mobile exper
 - Clerk Authentication
 - Adopto AI Chatbot
 
-<a href="https://github.com/shubhmrwt01/Adoptly">
+<a href="https://drive.google.com/file/d/1NRpjEclp27CAJOwRgCdFfsJobySbidEr/view">
   <img src="https://img.shields.io/badge/Live_App-4ECDC4?style=for-the-badge&logo=expo&logoColor=white"/>
 </a>
 
@@ -178,11 +154,6 @@ Connecting abandoned pets with loving families through an intuitive mobile exper
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center"> <!-- 🟢 GitHub Streak Stats (Updated + Reliable) --> <a href="https://git.io/streak-stats">  </a> <!-- 🟢 GitHub Stats --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shubhmrwt01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" /> </a> <!-- 🟢 Activity Graph --> <a href="https://github.com/shubhmrwt01"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhmrwt01&custom_title=Shubham%27s%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" /> </a> <!-- 🟢 Top Languages --> <a href="https://github.com/anuraghazra/github-readme-stats"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhmrwt01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" /> </a> <!-- 🟢 GitHub Trophies --> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img width="49%" src="https://github-profile-trophy.vercel.app/?username=shubhmrwt01&theme=radical&no-frame=true&margin-w=5&column=4&title=Commit,Repositories,Stars,Followers" alt="GitHub Trophies" /> </a> </div>
-
----
 
 ## 💼 What I Bring to the Table
 
