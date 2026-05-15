@@ -35,47 +35,29 @@ const shubham = {
 ```
 
 ---
-
 ## 🏆 Competitive Programming
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+###  LeetCode &nbsp;·&nbsp; [`shubhmrwt01`](https://www.leetcode.com/shubhmrwt01)
 
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/250%2B_Problems_Solved-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white)
+![Status](https://img.shields.io/badge/Active-●_Solving-7C3AED?style=flat-square&labelColor=0D1117)
 
-<br/>
+---
 
-![Solved](https://img.shields.io/badge/Solved-250%2B-orange?style=for-the-badge&labelColor=black)
+###  CodeChef &nbsp;·&nbsp; [`shubhmrwt01`](https://www.codechef.com/users/shubhmrwt01)
 
-<a href="https://www.leetcode.com/shubhmrwt01">
-  <img src="https://img.shields.io/badge/View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+![Problems](https://img.shields.io/badge/250%2B_Problems_Solved-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Status](https://img.shields.io/badge/Active-●_Solving-5B4638?style=flat-square&labelColor=1a1a1a)
 
-</td>
-<td align="center" width="50%">
+---
 
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
-
-<br/>
-
-![Solved](https://img.shields.io/badge/Solved-250%2B-brown?style=for-the-badge&labelColor=black)
-
-<a href="https://www.codechef.com/users/shubhmrwt01">
-  <img src="https://img.shields.io/badge/View%20Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![Total](https://img.shields.io/badge/Total%20Problems%20Solved-500%2B-00D9FF?style=for-the-badge&labelColor=20232A)
-![DSA](https://img.shields.io/badge/DSA-Active%20Solver-blueviolet?style=for-the-badge)
-![Languages](https://img.shields.io/badge/Languages-Java%20%7C%20Python%20%7C%20JS-blue?style=for-the-badge)
+![Total](https://img.shields.io/badge/🏅_Total_Solved-500%2B_Problems-20232A?style=for-the-badge)
+&nbsp;
+![DSA](https://img.shields.io/badge/🔥_DSA-Active_Solver-20232A?style=for-the-badge)
+&nbsp;
+![Languages](https://img.shields.io/badge/💻_Languages-Java_%7C_Python_%7C_JS-20232A?style=for-the-badge)
 
 </div>
 
