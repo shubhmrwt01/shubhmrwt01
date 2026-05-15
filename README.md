@@ -118,7 +118,7 @@ const shubham = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🤖 AI & Design
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-6D28D9?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -130,13 +130,75 @@ const shubham = {
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h2>🚖 Rydr</h2>
+
+<p>
+Real-time ride booking platform with live tracking, instant ride matching, and Socket.IO powered communication.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-7C3AED?style=flat-square&logo=render&logoColor=white"/>
+</p>
+
+<p>
 <a href="https://github.com/shubhmrwt01/Rydr">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhmrwt01&repo=Rydr&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF" />
+<img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shubhmrwt01/Adoptly">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhmrwt01&repo=Adoptly&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=8B949E&icon_color=4ECDC4" />
+<a href="https://rydr-o2d5.onrender.com">
+<img src="https://img.shields.io/badge/Live_Backend-06B6D4?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
+
+<a href="https://drive.google.com/file/d/14P-OH9MuqbkLPGDahSqZmY1djH_RAbPd/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/Download_App-16A34A?style=for-the-badge&logo=android&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://img.shields.io/badge/●_Live_&_Deployed-22C55E?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🐾 Adoptly</h2>
+
+<p>
+AI-powered pet adoption platform connecting abandoned pets with loving families through a modern mobile experience.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-6D28D9?style=flat-square&logo=google-gemini&logoColor=white"/>
+</p>
+<br/>
+
+<p>
+<a href="https://github.com/shubhmrwt01/Adoptly">
+<img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://drive.google.com/file/d/1NRpjEclp27CAJOwRgCdFfsJobySbidEr/view">
+<img src="https://img.shields.io/badge/Download_App-16A34A?style=for-the-badge&logo=android&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://img.shields.io/badge/●_Live_&_Deployed-22C55E?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
