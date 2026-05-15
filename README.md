@@ -130,18 +130,15 @@ const shubham = {
 
 <div align="center">
 
-[![Rydr](https://github-readme-stats.vercel.app/api/pin/?username=shubhmrwt01&repo=Rydr&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF)](https://github.com/shubhmrwt01/Rydr)
-&nbsp;&nbsp;
-[![Adoptly](https://github-readme-stats.vercel.app/api/pin/?username=shubhmrwt01&repo=Adoptly&theme=tokyonight&show_owner=false&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=8B949E&icon_color=4ECDC4)](https://github.com/shubhmrwt01/Adoptly)
+<a href="https://github.com/shubhmrwt01/Rydr">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhmrwt01&repo=Rydr&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E&icon_color=00D9FF" />
+</a>
+
+<a href="https://github.com/shubhmrwt01/Adoptly">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhmrwt01&repo=Adoptly&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=8B949E&icon_color=4ECDC4" />
+</a>
 
 </div>
-
-**🚖 Rydr** — Full-stack real-time ride-hailing · React Native · TypeScript · Node.js · Socket.io · MongoDB Atlas
-&nbsp;[![Backend](https://img.shields.io/badge/Live_Backend-00D9FF?style=flat-square&logo=render&logoColor=white)](https://rydr-o2d5.onrender.com) [![APK](https://img.shields.io/badge/Download_APK-3DDC84?style=flat-square&logo=android&logoColor=white)](https://drive.google.com/file/d/14P-OH9MuqbkLPGDahSqZmY1djH_RAbPd/view?usp=drivesdk)
-
-**🐾 Adoptly** — Pet adoption platform with AI chatbot · React Native · Expo · Firebase · Clerk Auth
-&nbsp;[![App](https://img.shields.io/badge/Live_App-4ECDC4?style=flat-square&logo=expo&logoColor=white)](https://drive.google.com/file/d/1NRpjEclp27CAJOwRgCdFfsJobySbidEr/view)
-
 
 ---
 
