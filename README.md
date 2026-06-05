@@ -140,7 +140,7 @@ Real-time ride booking platform with live tracking, instant ride matching, and S
 <img src="https://img.shields.io/badge/Live_Backend-06B6D4?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/14P-OH9MuqbkLPGDahSqZmY1djH_RAbPd/view?usp=drivesdk">
+<a href="https://github.com/shubhmrwt01/Rydr/releases/tag/v1.0.0">
 <img src="https://img.shields.io/badge/Download_App-16A34A?style=for-the-badge&logo=android&logoColor=white"/>
 </a>
 </p>
@@ -171,7 +171,7 @@ AI-powered pet adoption platform connecting abandoned pets with loving families 
 <img src="https://img.shields.io/badge/View_Code-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1NRpjEclp27CAJOwRgCdFfsJobySbidEr/view">
+<a href="https://github.com/shubhmrwt01/Adoptly/releases/tag/v1.0.0">
 <img src="https://img.shields.io/badge/Download_App-16A34A?style=for-the-badge&logo=android&logoColor=white"/>
 </a>
 </p>
