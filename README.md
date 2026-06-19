@@ -140,7 +140,7 @@ Real-time ride booking platform with live tracking, instant ride matching, and S
 <img src="https://img.shields.io/badge/Live_Backend-06B6D4?style=for-the-badge&logo=render&logoColor=white"/>
 </a>
 
-<a href="https://github.com/shubhmrwt01/Rydr/releases/tag/Rydrv1.0.0">
+<a href="https://github.com/shubhmrwt01/Rydr/releases/tag/Rydr">
 <img src="https://img.shields.io/badge/Download_App-16A34A?style=for-the-badge&logo=android&logoColor=white"/>
 </a>
 </p>
