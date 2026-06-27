@@ -131,28 +131,6 @@ AI-powered pet adoption platform connecting abandoned pets with loving families 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shubhmrwt01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhmrwt01&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhmrwt01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" width="40%" />
-
-<br/>
-
-[![Shubham's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhmrwt01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubhmrwt01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🌱 Currently Learning
 
